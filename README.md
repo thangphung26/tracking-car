@@ -1,1 +1,1 @@
-Đây là một dự án nhỏ của tôi về tracking video. Dự án là bài tập lớn cuối kỳ của tôi trong môn học tại UET
+This is a small project of mine on video tracking. The project is my final assignment in the subject at UET
